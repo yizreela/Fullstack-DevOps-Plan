@@ -7,8 +7,8 @@
 
 ## Actividades
 - [x] Instalar JDK 21, Node.js, IntelliJ y VS Code
-- [ ] Repasar sintaxis básica de Java
-- [ ] Tutorial React: primeros componentes y JSX
+- [x] Repasar sintaxis básica de Java
+- [x] Tutorial React: primeros componentes y JSX
 
 
 # Configuración de Java 21 en macOS
@@ -39,6 +39,11 @@ echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.zshrc
 # Prettier
 # Formateador de código automático que mantiene un estilo consistente en Java, JS y otros lenguajes.
 
+### Proyecto React completado
+- [x] Repositorio: https://github.com/yizreela/Semana-1---Tutorial-React-primeros-componentes-y-JSX
+- [x] App desplegada: https://semana-1-tutorial-react-primeros-co.vercel.app
+- [x] 10 ejercicios de fundamentos completados
+- [x] Documentación creada en Ejercicios-semana/Semana 1/
 
 ## Recursos
 - [Java Documentation](https://docs.oracle.com/en/java/)
@@ -46,9 +51,9 @@ echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.zshrc
 - [React Documentation](https://react.dev/)
 
 ## Resultados
-- [ ] Herramientas instaladas y configuradas
-- [ ] Proyecto React creado y funcionando
-- [ ] Ejercicios de Java completados
+- [x] Herramientas instaladas y configuradas
+- [x] Proyecto React creado y funcionando
+- [x] Ejercicios de Java completados
 
 ## Tiempo invertido
 - Lunes: ___ horas
